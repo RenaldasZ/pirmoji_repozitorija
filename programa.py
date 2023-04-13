@@ -27,10 +27,10 @@ teisingas_vardas = ("Gitanas Nauseda")
 atsakymas = input("Jūsų atstakymas: ")
 
 if atsakymas.lower() == teisingas_vardas.lower():
-    print("\033[92m" + "\n\n\n\n\n\n\n\n\n\n\n\n---------------------Teisingai!" + "\033[0m")
+    print("\033[92m" + "\n\n\n\n\n\n\n\n\n---------------------Teisingai!" + "\033[0m")
     atsakymu_taskai += 1
 else:
-    print("\033[91m" + "\n\n\n\n\n\n\n\n\n\n\n\n---------------------Neteisingai!" + "\033[0m")
+    print("\033[91m" + "\n\n\n\n\n\n\n\n\n---------------------Neteisingai!" + "\033[0m")
 
 
 
@@ -42,10 +42,10 @@ teisingas_skaicius = ("17")
 atsakymas = input("Jūsų atstakymas: ")
 
 if atsakymas.lower() == teisingas_skaicius.lower():
-    print("\033[92m" + "\n\n\n\n\n\n\n\n\n\n\n\n---------------------Teisingai!" + "\033[0m")
+    print("\033[92m" + "\n\n\n\n\n\n\n\n\n---------------------Teisingai!" + "\033[0m")
     atsakymu_taskai += 1
 else:
-    print("\033[91m" + "\n\n\n\n\n\n\n\n\n\n\n\n---------------------Neteisingai!" + "\033[0m")
+    print("\033[91m" + "\n\n\n\n\n\n\n\n\n---------------------Neteisingai!" + "\033[0m")
 
 ################################# Trečias klausimas #################################
 print("\033[92m" + "\n\nTrečias klausimas!" + "\033[0m")
@@ -56,10 +56,10 @@ teisingas_skaicius_gramais = ("1000")
 atsakymas = input("Jūsų atstakymas: ")
 
 if atsakymas.lower() == teisingas_skaicius_gramais.lower():
-    print("\033[92m" + "\n\n\n\n\n\n\n\n\n\n\n\n---------------------Teisingai!" + "\033[0m")
+    print("\033[92m" + "\n\n\n\n\n\n\n\n\n---------------------Teisingai!" + "\033[0m")
     atsakymu_taskai += 1
 else:
-    print("\033[91m" + "\n\n\n\n\n\n\n\n\n\n\n\n---------------------Neteisingai!" + "\033[0m")
+    print("\033[91m" + "\n\n\n\n\n\n\n\n\n---------------------Neteisingai!" + "\033[0m")
 
 
 
