@@ -1,4 +1,4 @@
-# Pirmoji programėlė --version 1.0
+# Pirmoji programėlė -- Programėlė Testas -- versija 1.0
 import sys
 
 atsakymu_taskai = 0
