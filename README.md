@@ -1,7 +1,7 @@
 # pirmoji_repozitorija
 
-1. Savo pirmają repozitorija sukūriau 2023/04/12 
+1. 2023/04/12 |> Sukūriau savo pirmają repozitorija
 
-2. Savo oficialią pirmają python programa.py sukūriau 2023/04/13
+2. 2023/04/13 |> Sukūriau savo oficialią pirmają python programa.py
 
-3. laukiame rytojaus
+3. 2023/04/13 |> string'ai ir ciklai 
