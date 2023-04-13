@@ -19,6 +19,7 @@ else:
     print("Ne tai ne. Iki!")
     sys.exit()
 
+################################# Pirmas klausimas #################################
 print("\033[92m" + "\n\nPirmas klausimas!" + "\033[0m")
 print("\033[91m" + "Kas šiuo metų yra mūsų Lietuvos prezidentas. Įveskite Vardą ir pavardę. P.s nenaudokite lietuviškų raidžių" + "\033[0m")
 
@@ -32,6 +33,8 @@ else:
     print("\033[91m" + "\n\n\n\n\n\n\n\n\n\n\n\n---------------------Neteisingai!" + "\033[0m")
 
 
+
+################################# Antras klausimas #################################
 print("\033[92m" + "\n\nAntras klausimas!" + "\033[0m")
 print("\033[91m" + "Kiek yra X ?" + "\033[0m")
 print("\033[91m" + "34 - 17 = X " + "\033[0m")
@@ -44,7 +47,7 @@ if atsakymas.lower() == teisingas_skaicius.lower():
 else:
     print("\033[91m" + "\n\n\n\n\n\n\n\n\n\n\n\n---------------------Neteisingai!" + "\033[0m")
 
-
+################################# Trečias klausimas #################################
 print("\033[92m" + "\n\nTrečias klausimas!" + "\033[0m")
 print("\033[91m" + "Kiek yra 1 kilogramas gramais?" + "\033[0m")
 
@@ -59,4 +62,6 @@ else:
     print("\033[91m" + "\n\n\n\n\n\n\n\n\n\n\n\n---------------------Neteisingai!" + "\033[0m")
 
 
+
+################################################### Atsakymas ###################################################
 print("\033[92m" + "\n\nJūs atsakėte: " + str(atsakymu_taskai) + " iš 3 teisingai. Na ką žinau, šaunuolis!" + "\033[0m")
