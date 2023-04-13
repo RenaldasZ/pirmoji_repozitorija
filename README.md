@@ -4,3 +4,4 @@
 
 2. Savo oficialią pirmają python programa sukūriau 2023/04/13
 
+3. laukiame rytojaus
