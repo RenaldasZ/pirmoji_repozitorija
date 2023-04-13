@@ -21,7 +21,7 @@ else:
 
 ######################################################### Pirmas klausimas #########################################################
 print("\033[92m" + "\n\nPirmas klausimas!" + "\033[0m")
-print("\033[91m" + "Kas šiuo metų yra mūsų Lietuvos prezidentas. Įveskite Vardą ir pavardę. P.s nenaudokite lietuviškų raidžių" + "\033[0m")
+print("\033[91m" + "Kas šiuo metu yra mūsų Lietuvos prezidentas. Įveskite Vardą ir pavardę. P.s nenaudokite lietuviškų raidžių" + "\033[0m")
 
 teisingas_vardas = ("Gitanas Nauseda")
 atsakymas = input("Jūsų atstakymas: ")
