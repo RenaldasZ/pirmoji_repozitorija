@@ -34,7 +34,7 @@ else:
     print("Neteisingas laiko zonos skaičius.")
     exit()
 
-# Sukuriame datetime objektą
+# Sukuriame datetime objektą, naudojant vartotojo įvestas valandas ir minutes
 time = datetime(2023, 4, 24, hours, minutes)
 
 # Spausdiname įvestą laiką skirtingose pasaulio vietose
